@@ -8,7 +8,7 @@ to change a value you put an = after what you want to change, like this
 you can also use the var in the assignment, like this
 {varA = varA + 1}
 
-can do basic math: addition (+), subtraction (-), multiplication (\*), division (\\)
+can do basic math: addition (+), subtraction (-), multiplication (\*), division (/)
 
 
 
